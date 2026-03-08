@@ -41,7 +41,7 @@ export default function Hero() {
           className="flex items-center gap-3 px-2 py-1 pr-4 rounded-full bg-zinc-200/50 dark:bg-white/5 border border-zinc-300 dark:border-white/10 backdrop-blur-md mb-8"
         >
           <img
-            src="/images/1%.jpeg"
+            src="images/1%.jpeg"
             alt="Ashinshanee"
             className="w-8 h-8 rounded-full object-cover border border-zinc-300 dark:border-white/20"
           />
