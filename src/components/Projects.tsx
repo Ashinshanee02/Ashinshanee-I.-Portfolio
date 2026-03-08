@@ -34,13 +34,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "BootUp Company Website",
+    title: "BootUp Website",
     description:
       "Professional company website built with modern frontend technologies and responsive design.",
     image: "/images/BootUpLogo.png",
     tags: ["React", "TypeScript", "Tailwind", "Vite"],
     links: {
-      live: "https://bootup-company-website.vercel.app/",
+      live: "https://bootupwebsite.netlify.app/",
     },
   },
   {
