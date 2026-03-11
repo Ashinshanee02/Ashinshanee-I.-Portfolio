@@ -34,6 +34,19 @@ const projects = [
   },
   {
     id: 3,
+    title: "Mind Galaxy Mini-App",
+    description:
+      "Visualize your personality as a dynamic cosmic galaxy.",
+    image: "/images/MindG.png",
+    tags: ["TypeScript", "CSS", "JavaScript", "Next.js"],
+    links: {
+      github:
+        "https://github.com/Ashinshanee02/mindgalaxy-IWD-Edition.git",
+      live: "https://mindgalaxy-iwd.netlify.app/",
+    },
+  },
+  {
+    id: 4,
     title: "ZyncUp - AI Event Dashboard",
     description:
       "AI-powered event management dashboard providing real-time analytics and attendee insights.",
@@ -46,7 +59,7 @@ const projects = [
     },
   },
   {
-    id: 4,
+    id: 5,
     title: "Cancer Mortality Prediction",
     description:
       "Machine learning models predicting cancer mortality and survival time using real-world healthcare data.",
@@ -57,7 +70,7 @@ const projects = [
     },
   },
   {
-    id: 5,
+    id: 6,
     title: "Bookstore REST API",
     description:
       "RESTful API for managing books, authors, carts, and orders with full CRUD functionality.",
@@ -68,7 +81,7 @@ const projects = [
     },
   },
   {
-    id: 6,
+    id: 7,
     title: "Java Max Flow Solver",
     description:
       "Java implementation of the Edmonds–Karp algorithm to calculate maximum flow in a network graph.",
@@ -80,7 +93,7 @@ const projects = [
     },
   },
   {
-    id: 7,
+    id: 8,
     title: "Movie Explorer",
     description:
       "React web app to discover trending movies, search films, and manage a favorites list.",
@@ -92,7 +105,7 @@ const projects = [
     },
   },
   {
-    id: 8,
+    id: 9,
     title: "ExploXR - VR Museum",
     description:
       "Virtual reality museum prototype created during a 24-hour inter-university designathon.",
@@ -103,7 +116,7 @@ const projects = [
     },
   },
   {
-    id: 9,
+    id: 10,
     title: "GreenAlchemy",
     description:
       "Mobile app concept for a sustainable product marketplace promoting eco-friendly products.",
