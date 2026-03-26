@@ -29,7 +29,7 @@ const projects = [
     image: "/images/BootUpLogo.png",
     tags: ["React", "TypeScript", "Tailwind", "Vite"],
     links: {
-      live: "https://bootupwebsite.netlify.app/",
+      live: "https://bootup-website.netlify.app/",
     },
   },
   {
