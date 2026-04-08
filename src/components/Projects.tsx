@@ -21,17 +21,17 @@ const projects = [
       live: "https://drive.google.com/file/d/1UnUDwf8fD5vaE4UW_4tAlV-i6SXZpI9D/view",
     },
   },
-  {
-    id: 2,
-    title: "BootUp Website",
-    description:
-      "Professional company website built with modern frontend technologies and responsive design.",
-    image: "/images/BootUpLogo.png",
-    tags: ["React", "TypeScript", "Tailwind", "Vite"],
-    links: {
-      live: "https://bootup-website.netlify.app/",
-    },
-  },
+  // {
+  //   id: 2,
+  //   title: "BootUp Website",
+  //   description:
+  //     "Professional company website built with modern frontend technologies and responsive design.",
+  //   image: "/images/BootUpLogo.png",
+  //   tags: ["React", "TypeScript", "Tailwind", "Vite"],
+  //   links: {
+  //     live: "https://bootup-website.netlify.app/",
+  //   },
+  // },
   {
     id: 3,
     title: "Mind Galaxy Mini-App",
