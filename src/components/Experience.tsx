@@ -21,7 +21,7 @@ const experiences = [
     id: 2,
     role: 'Co-founder & Project Lead',
     company: 'Spark Voyage',
-    period: '10/2024 - Present',
+    period: '10/2024 - 11/2025',
     description: [
       'Led end-to-end project planning, coordination, and execution across Unity gameplay, Flask backend, Firebase pipelines, and React dashboards.',
       'Managed development team, tracked sprint progress, and aligned dependencies across technical streams.',
