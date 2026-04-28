@@ -25,7 +25,7 @@ const projects = [
     id: 2,
     title: "BootUp Website (Demo Version)",
     description:
-      "Designed and developed a brand new professional company website for BootUp during my internship at CurveUp, contributing from early-stage concept to production. Focused on responsive UI, scalable frontend architecture, and product-driven implementation.",
+      "Designed and developed the BootUp website during my internship at CurveUp, delivering from concept to production.",
     image: "/images/BootUpLogo.png",
     tags: ["React", "TypeScript", "Tailwind", "Vite"],
     links: {
