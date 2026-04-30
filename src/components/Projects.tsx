@@ -23,7 +23,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "BootUp Website (Demo Version)",
+    title: "BootUp Website (Drafted Version)",
     description:
       "Designed and developed the BootUp website during my internship at CurveUp, delivering from concept to production.",
     image: "/images/BootUpLogo.png",
