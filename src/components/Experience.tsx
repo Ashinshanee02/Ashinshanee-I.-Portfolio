@@ -5,19 +5,16 @@ const experiences = [
   {
     id: 1,
     role: 'Tech Development & Management Intern',
-    company: 'CurveUp (BootUp Project)',
-    period: '09/2025 - 04/2026',
+    company: 'CurveUp',
+    period: '09/2025 - Present',
     description: [
-      'Owned cross-functional coordination across two external engineering vendors (Apptimus & Upview), aligning development priorities, resolving blockers, and maintaining delivery timelines in a startup environment.',
-      'Led Agile execution and delivery tracking, managing dependencies, risks, and scope changes while directly interfacing with founders for decision-making.',
-      'Facilitated stakeholder communication through structured weekly syncs, action tracking, and follow-ups, ensuring execution continuity despite external team dependencies.',
-      'Executed 200+ UAT test cases across mobile and web platforms, identifying critical issues in authentication, payments, UX flows, and content delivery systems.',
-      'Designed and implemented internal project tracking and documentation systems using Jira and Confluence, improving visibility and cross-team alignment.',
-      'Led coordination for AWS and Google Cloud startup program applications, aligning technical and business requirements with DevOps and leadership teams.',
-      'Took initiative during project stagnation by independently developing a functional website prototype and structuring a full documentation handover system to ensure continuity.',
-      'Managed end-to-end knowledge transfer by consolidating all project assets, technical documents, and operational workflows into a centralized system for future team use.'
+      'Coordinated 6+ engineers across two external tech vendors (Upview & Apptimus), aligning scope, priorities, and delivery timelines.',
+      'Planned and tracked work items using Agile practices; monitored progress and escalated risks, dependencies, and blockers to founders.',
+      'Organized and led weekly syncs, documented meeting minutes, tracked action items, and followed up to closure.',
+      'Executed 210+ UAT test cases across iOS and Android; identified critical issues in authentication, payments, drag-and-drop modules, and accessibility.',
+      'Produced 10+ structured project and product documents, including onboarding proposals, content enhancement plans, app improvement roadmap, level-tagging framework, and competitive analysis.',
     ],
-    tags: ['Agile', 'Jira', 'Confluence', 'UAT', 'Stakeholder Management', 'Project Management','Ownership', 'Team Management'],
+    tags: ['Agile', 'JIRA', 'UAT', 'Stakeholder Management', 'Ownership', 'Team Management'],
     color: 'indigo'
   },
   {
@@ -26,13 +23,12 @@ const experiences = [
     company: 'Spark Voyage',
     period: '10/2024 - 11/2025',
     description: [
-      'Led end-to-end product development of an AI-powered educational platform, coordinating across Unity, Flask, Firebase, and React-based systems.',
-      'Managed cross-functional team execution, aligning engineering, design, and psychological advisory inputs into a unified product roadmap.',
-      'Designed backend data pipelines and APIs for real-time performance tracking and dashboard visualization.',
-      'Drove product decisions based on user needs and psychological research, ensuring ethical data handling and user-centric design.',
-      'Oversaw sprint planning, execution tracking, and delivery alignment across multiple technical components.',
+      'Led end-to-end project planning, coordination, and execution across Unity gameplay, Flask backend, Firebase pipelines, and React dashboards.',
+      'Managed development team, tracked sprint progress, and aligned dependencies across technical streams.',
+      'Facilitated communication between developers, designers, and psychological advisors.',
+      'Aligned product with psychological advisors and implemented ethical data handling standards.',
     ],
-    tags: ['Product Leadership', 'React', 'Firebase', 'Unity', 'Flask', 'APIs', 'Agile', 'ClickUp', 'Slack', 'Notion'],
+    tags: ['Project Lead', 'React', 'Firebase', 'Unity', 'Flask', 'ClickUp', 'Slack', 'Notion'],
     color: 'purple'
   },
   {
@@ -43,7 +39,7 @@ const experiences = [
     description: [
       'Contributing to UNDP initiatives focused on sustainable development, community engagement, and digital innovation while collaborating with diverse teams to support impactful projects.',
     ],
-    tags: ['Sustainable Development', 'Community Engagement', 'Digital Innovation'],
+    tags: ['Sustainable Development', 'Community Engagement', 'Project Support'],
     color: 'pink'
   },
   {
@@ -54,7 +50,7 @@ const experiences = [
     description: [
       'Active participation in networking and leadership activities, enhancing industry connections.',
     ],
-    tags: ['Networking', 'Leadership', 'Technical Community'],
+    tags: ['Networking', 'Leadership', 'Volunteering'],
     color: 'sky'
   },
   {
@@ -63,10 +59,10 @@ const experiences = [
     company: 'AIESEC (IIT)',
     period: '2023 - 2024',
     description: [
-      'Led business development initiatives and financial planning, supporting organizational growth and partnership development.',
-      'Coordinated stakeholder outreach and managed execution of product-side initiatives aligned with strategic goals.',
+      'Lead product strategy development and financial planning, showcasing business acumen and project execution.',
+      'Drove partnerships, led product-side BD, and enabled strategic outreach across stakeholders.',
     ],
-    tags: ['Business Growth', 'Strategy', 'Team Leadership'],
+    tags: ['Business Growth', 'BD Ops', 'Team Leadership'],
     color: 'emerald'
   },
   {
@@ -77,7 +73,7 @@ const experiences = [
     description: [
       'Managed logistics for a large-scale university event, demonstrating leadership and coordination skills.',
     ],
-    tags: ['Operations', 'Event Management', 'Coordination'],
+    tags: ['Logistics', 'Event Management', 'Coordination'],
     color: 'amber'
   },
 ];
