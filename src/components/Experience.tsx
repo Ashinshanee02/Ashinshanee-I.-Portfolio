@@ -10,7 +10,7 @@ const experiences = [
     description: [
       ],
     tags: ['Agile', 'Project Management', 'JIRA', 'Confluence', 'UAT', 'Stakeholder Management', 'Ownership', 'Team Management'],
-    color: 'sky'
+    color: 'amber'
   },
   {
     id: 2,
