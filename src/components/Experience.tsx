@@ -4,6 +4,16 @@ import { Briefcase, Calendar, ArrowRight, Sparkles, Building2 } from 'lucide-rea
 const experiences = [
   {
     id: 1,
+    role: 'Project Management Intern',
+    company: 'Sysco LABS Sri Lanka',
+    period: '05/2026 - Present',
+    description: [
+      ],
+    tags: ['Agile', 'Project Management', 'JIRA', 'Confluence', 'UAT', 'Stakeholder Management', 'Ownership', 'Team Management'],
+    color: 'sky'
+  },
+  {
+    id: 2,
     role: 'Tech Development & Management Intern',
     company: 'CurveUp',
     period: '09/2025 - 04/2026',
@@ -21,7 +31,7 @@ const experiences = [
     color: 'indigo'
   },
   {
-    id: 2,
+    id: 3,
     role: 'Co-founder & Project Lead',
     company: 'Spark Voyage',
     period: '10/2024 - 11/2025',
@@ -36,7 +46,7 @@ const experiences = [
     color: 'purple'
   },
   {
-    id: 3,
+    id: 4,
     role: 'UNDP Volunteer',
     company: 'United Nations Development Programme (UNDP)',
     period: '2026 - Present',
@@ -47,7 +57,7 @@ const experiences = [
     color: 'pink'
   },
   {
-    id: 4,
+    id: 5,
     role: 'IEEE Volunteer',
     company: 'IEEE',
     period: '2024 - Present',
@@ -58,7 +68,7 @@ const experiences = [
     color: 'sky'
   },
   {
-    id: 5,
+    id: 6,
     role: 'BD & Finance Team Coordinator',
     company: 'AIESEC (IIT)',
     period: '2023 - 2024',
@@ -70,7 +80,7 @@ const experiences = [
     color: 'emerald'
   },
   {
-    id: 6,
+    id: 7,
     role: 'Logistics Team Member',
     company: 'StageCraft 2024 (IIT)',
     period: '2024',
