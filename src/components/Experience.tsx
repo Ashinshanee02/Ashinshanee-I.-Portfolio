@@ -9,7 +9,7 @@ const experiences = [
     period: '05/2026 - Present',
     description: [
       ],
-    tags: ['Agile', 'Project Management', 'JIRA', 'Confluence', 'UAT', 'Stakeholder Management', 'Ownership', 'Team Management'],
+    tags: ['Agile', 'Project Management', 'JIRA', 'Confluence'],
     color: 'amber'
   },
   {
